@@ -4,4 +4,4 @@ UIPageControl displays the status of the slider ( number of slides, current slid
 
 
 # Preview
-![screenshot](https://github.com/rai-di/Stopwatch/blob/master/Screenshot.gif)
+![screenshot](https://github.com/rai-di/Slider/blob/master/Screenshot.gif)
